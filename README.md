@@ -7,7 +7,7 @@
     </picture>
   </a>
 
-  <p><em>Your central crypto resource to protect yourself and profit from the cryptocurrency space online.</em></p>
+  <p><em>Your central resource to thrive in crypto.</em></p>
 
   <p><a href="https://mastodon.neat.computer/@privacyguides">
     <img src="https://img.shields.io/mastodon/follow/109298532634697668?domain=https%3A%2F%2Fmastodon.neat.computer&label=Follow%20%40privacyguides%40neat.computer&style=social">
