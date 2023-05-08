@@ -38,11 +38,11 @@
 
 ## About
 
-**Privacy Guides** is a socially motivated website that provides information for protecting your data security and privacy. Our mission is to inform the public about the value of digital privacy, and global government initiatives which aim to monitor your online activity. We are a non-profit collective operated entirely by volunteer team members and contributors. Our website is free of advertisements and not affiliated with any of the listed providers.
+**Crypto Guide** is a socially motivated website that provides tools and information for all types of activity in crypto. Our mission is to onboard users to crypto, and make those already in the space deeply knowledgeable. Our website is free of advertisements and not affiliated with any of the listed providers.
 
 The current list of team members can be found [here](https://www.privacyguides.org/about/#our-team). Additionally, [many people](https://github.com/privacyguides/privacyguides.org/graphs/contributors) have made contributions to the project, and you can too!
 
-*Featured on: [Tweakers](https://tweakers.net/reviews/10568/op-zoek-naar-privacyvriendelijke-tools-niek-de-wilde-van-privacy-guides.html), [The New York Times](https://www.nytimes.com/wirecutter/guides/online-security-social-media-privacy/), and [Wired](https://www.wired.com/story/firefox-mozilla-2022/)*
+*Featured on:
 
 ## Contributing
 
@@ -54,7 +54,7 @@ The current list of team members can be found [here](https://www.privacyguides.o
   - View the list of [approved topics waiting for a PR](https://discuss.privacyguides.net/tag/approved)
   - Read some writing tips in our [style guide](https://www.privacyguides.org/en/meta/writing-style/)
 
-All contributors to the site are listed [here](https://github.com/privacyguides/privacyguides.org/graphs/contributors). If you make a substantial (i.e. copyright eligible) contribution to the project and would like to be formally credited, you are welcome to include your information in the appropriate `authors` section in [`CITATION.cff`](/CITATION.cff) as well, just submit a PR or ask @jonaharagon to make the change.
+All contributors to the site are listed [here](https://github.com/privacyguides/privacyguides.org/graphs/contributors). If you make a substantial (i.e. copyright eligible) contribution to the project and would like to be formally credited, you are welcome to include your information in the appropriate `authors` section in [`CITATION.cff`](/CITATION.cff) as well, just submit a PR.
 
 ## Mirrors
 
